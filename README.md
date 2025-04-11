@@ -24,7 +24,7 @@ Translations made by:
 - xsSplater (RU localization)
 - AtGeO (Simplified Chinese localization)
 
-If you want to include any translation feel free to contact me through here or in the Darktide Modders Discord thread and I will merge it to the main mod.
+<ins>If you want to include any translation feel free to contact me through here or in the Darktide Modders Discord thread and I will merge it to the main mod.</ins>
 
 If you’re familiar with modding, feel free to open the main .lua file and customize the text to your language or preference for personal use. If you have any ideas for this mod, please leave it in the comments and I might include it. Thanks! :)
 
