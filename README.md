@@ -1,7 +1,7 @@
 
  ![Header2](https://github.com/user-attachments/assets/18395250-3ffa-49d4-a224-a30241c132d5)
 
-[Nexus Mod Page]([url](https://www.nexusmods.com/warhammer40kdarktide/mods/500))
+[[Nexus Mod Page]()]([url](https://www.nexusmods.com/warhammer40kdarktide/mods/500))
 
 Tired of looking for a Havoc at the party finder and asking yourself
 “Is this modifier Red, Purple or Orange?
