@@ -11,10 +11,10 @@ Yeah, me too.
 This mod offers a simple localization tweak and recolour of specific Havoc modifiers to match their corresponding buff colors, making them easier to identify at a glance in Party Finder.
  
 The tags will be displayed like this in Party Finder (see Images):
-RampagingEnemies
-The Encroaching Garden
-Heinous Rituals
-*Enraging Elites (previously The Final Toll -read below-)
+- RampagingEnemies
+- The Encroaching Garden
+- Heinous Rituals
+- *Enraging Elites (previously The Final Toll -read below-)
  
 *The only name change is “The Final Toll” which I renamed to “Enraging Elites”. In the source code, it's labeled as “mutator_havoc_enraged” and it applies to Elites…so the new name reflects that more clearly.
  
